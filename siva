@@ -1,0 +1,11 @@
+<html>
+<title>Details</title>
+<body>
+<table border="1" height="200" width="200">
+<tr><td rowspan="4">img src="https://igimages.gumlet.io/telugu/gallery/actor/nani/nani03092020_003.jpg"></td><th>Roll No</th><td>19am1a0101</td></tr>
+<tr><th>Name</th><td>D.D.Pavan</td></tr>
+<tr><th size="2">Department</th><td>civil</td></tr>
+<tr><th size="bold">Insterted sub</th><td>S.A</td></tr>
+</title>
+</body>
+</html>
